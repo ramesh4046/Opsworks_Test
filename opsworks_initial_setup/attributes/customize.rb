@@ -1,0 +1,1 @@
+default[:opsworks_initial_setup][:bind_mounts][:mounts] = {}
